@@ -3,15 +3,13 @@
 # Modern 3D Portfolio using React, Three.js and Typescript
 
 ![Modern 3D Portfolio using React, Three.js and Typescript](/.github/images/img_main.png "Modern 3D Portfolio using React, Three.js and Typescript")
+[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/Franklin-Thuku "Ask Me Anything!")
+[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/Franklin-Thuku/3d-portfolio/commits/main "Maintenance")
+[![GitHub branches](https://flat.badgen.net/github/branches/Franklin-Thuku/3d-portfolio?icon=github&color=black&scale=1.01)](https://github.com/Franklin-Thuku/3d-portfolio/branches "GitHub branches")
+[![Github commits](https://flat.badgen.net/github/commits/Franklin-Thuku/3d-portfolio?icon=github&color=black&scale=1.01)](https://github.com/Franklin-Thuku/3d-portfolio/commits "Github commits")
+[![GitHub issues](https://flat.badgen.net/github/issues/Franklin-Thuku/3d-portfolio?icon=github&color=black&scale=1.01)](https://github.com/Franklin-Thuku/3d-portfolio/issues "GitHub issues")
+[![GitHub pull requests](https://flat.badgen.net/github/prs/Franklin-Thuku/3d-portfolio?icon=github&color=black&scale=1.01)](https://github.com/Franklin-Thuku/3d-portfolio/pulls "GitHub pull requests")
 
-[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy "Ask Me Anything!")
-[![GitHub license](https://flat.badgen.net/github/license/sanidhyy/3d-portfolio?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/3d-portfolio/blob/main/LICENSE "GitHub license")
-[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/3d-portfolio/commits/main "Maintenance")
-[![GitHub branches](https://flat.badgen.net/github/branches/sanidhyy/3d-portfolio?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/3d-portfolio/branches "GitHub branches")
-[![Github commits](https://flat.badgen.net/github/commits/sanidhyy/3d-portfolio?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/3d-portfolio/commits "Github commits")
-[![GitHub issues](https://flat.badgen.net/github/issues/sanidhyy/3d-portfolio?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/3d-portfolio/issues "GitHub issues")
-[![GitHub pull requests](https://flat.badgen.net/github/prs/sanidhyy/3d-portfolio?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/3d-portfolio/pulls "GitHub pull requests")
-[![Netlify status](https://api.netlify.com/api/v1/badges/5c77ba92-e2f5-468e-99f1-3543906a90cb/deploy-status)](https://shubam.netlify.app/ "Netlify status")
 
 <!-- Table of Contents -->
 <details>
@@ -204,12 +202,12 @@ Useful resources and dependencies that are used in 3D Portfolio.
 
 ## :coffee: Buy Me a Coffee
 
-[<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200" />](https://www.buymeacoffee.com/sanidhy "Buy me a Coffee")
+[<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200" />](https://buymeacoffee.com/franklinthuku "Buy me a Coffee")
 
 ## :rocket: Follow Me
 
-[![GitHub followers](https://img.shields.io/github/followers/sanidhyy?style=social&label=Follow&maxAge=2592000)](https://github.com/sanidhyy "Follow Me")
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fx.com%2F_sanidhyy)](https://x.com/intent/tweet?text=Check+out+this+amazing+app:&url=https%3A%2F%2Fgithub.com%2Fsanidhyy%2F3d-portfolio "Tweet")
+[![GitHub followers](https://img.shields.io/github/followers/Franklin-Thuku?style=social&label=Follow&maxAge=2592000)](https://github.com/Franklin-Thuku "Follow Me")
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/franklin-thuku-443ab7361/ "Connect on LinkedIn")
 
 ## :books: Learn More
 
@@ -253,12 +251,13 @@ You can also give this repository a star to show more people and they can use th
 
 ## :star2: Star History
 
-<a href="https://star-history.com/#sanidhyy/3d-portfolio&Timeline">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=sanidhyy/3d-portfolio&type=Timeline&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=sanidhyy/3d-portfolio&type=Timeline" />
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=sanidhyy/3d-portfolio&type=Timeline" />
-</picture>
+<a href="https://star-history.com/#Franklin-Thuku/3d-portfolio&Timeline">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Franklin-Thuku/3d-portfolio&type=Timeline&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Franklin-Thuku/3d-portfolio&type=Timeline" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Franklin-Thuku/3d-portfolio&type=Timeline" />
+  </picture>
+</a>
 </a>
 
 <br />
