@@ -184,7 +184,7 @@ export const EXPERIENCES = [
   },
   {
     title: "Full stack Developer",
-    school_name: "Meta",
+    school_name: "Freelance",
     icon: meta,
     iconBg: "#E6DEDD",
     date: "Jan 2025 - Present",
