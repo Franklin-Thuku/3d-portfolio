@@ -36,6 +36,9 @@ import {
   linkedin,
   twitter,
   github,
+  graduate,
+  react,
+  jkuat,
 } from "../assets";
 
 // Navbar Links
@@ -58,7 +61,7 @@ export const NAV_LINKS = [
   {
     id: "source-code",
     title: "Source Code",
-    link: "http://www.github.com/sanidhyy/3d-portfolio",
+    link: "http://www.github.com/Franklin-Thuku/3d-portfolio",
   },
 ] as const;
 
@@ -141,37 +144,37 @@ export const TECHNOLOGIES = [
 // Experiences
 export const EXPERIENCES = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
+    title: "Completed Highschool Studies",
+    school_name: "Thika High School",
+    icon: graduate,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "January 2020 - December 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Joined High school.",
+      "Strived, i worked day and night to achieve my goals.",
+      "Sat for my Kenya Certificate of Secondary Education(KCSE).",
+      "Scored an A- .",
     ],
   },
+ 
   {
+    title: "Joined University",
+    school_name: "Jomo Kenyatta University of Agriculture and Technology",
+    icon: jkuat,
+    iconBg: "#383E56",
+    date: "September 2024",
+    points: [
+      "Joined Jomo Kenyatta university .",
+      "Pursued BSc. Computer Technology(degree).",
+      "Acquired complex skills in programming.",
+    ],
+  },
+   {
     title: "React Native Developer",
-    company_name: "Tesla",
-    icon: tesla,
+    school_name: "Freelance",
+    icon: react,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "Web Developer",
-    company_name: "Shopify",
-    icon: shopify,
-    iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "Jan 2025",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -181,10 +184,10 @@ export const EXPERIENCES = [
   },
   {
     title: "Full stack Developer",
-    company_name: "Meta",
+    school_name: "Meta",
     icon: meta,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "Jan 2025 - Present",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -198,7 +201,7 @@ export const EXPERIENCES = [
 export const TESTIMONIALS = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+      "I thought it was impossible to make a website as beautiful as our product, but Frank proved me wrong.",
     name: "Sara Lee",
     designation: "CFO",
     company: "Acme Co",
@@ -206,7 +209,7 @@ export const TESTIMONIALS = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
+      "I've never met a web developer who truly cares about their clients' success like Frank does.",
     name: "Chris Brown",
     designation: "COO",
     company: "DEF Corp",
@@ -214,7 +217,7 @@ export const TESTIMONIALS = [
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "After Frank optimized our website, our traffic increased by 50%. We can't thank them enough!",
     name: "Lisa Wang",
     designation: "CTO",
     company: "456 Enterprises",
@@ -367,7 +370,7 @@ export const SOCIALS = [
   {
     name: "Linkedin",
     icon: linkedin,
-    link: "https://www.linkedin.com/in/sanidhyy",
+    link: "https://www.linkedin.com/in/franklin-thuku-443ab7361/",
   },
   {
     name: "Twitter",
@@ -377,6 +380,6 @@ export const SOCIALS = [
   {
     name: "GitHub",
     icon: github,
-    link: "https://github.com/sanidhyy",
+    link: "https://github.com/Franklin-Thuku",
   },
 ] as const;

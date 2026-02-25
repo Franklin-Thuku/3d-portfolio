@@ -29,6 +29,9 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import jkuat from "./company/jkuat.jpg";
+import react from "./company/react.png";
+import graduate from "./company/graduate.png";
 
 import project1 from "./projects/project1.png";
 import project2 from "./projects/project2.png";
@@ -86,4 +89,7 @@ export {
   youtube,
   linkedin,
   twitter,
+  jkuat,
+  react,
+  graduate,
 };
